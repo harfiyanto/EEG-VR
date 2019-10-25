@@ -1,7 +1,8 @@
 ### EEG-VR
 Unity project used in VR-based Brain-Computer Interface Development Project
+---
 
-## Members:
+# Members:
 
 **Albert Tien**
 atien@student.unimelb.edu.au
