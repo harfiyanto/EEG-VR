@@ -3,6 +3,8 @@
 
 Unity project used in VR-based Brain-Computer Interface Development Project
 
+University of Melbourne Capstone Project **2019**
+
 ### Members:
 
 **Albert Tien**
