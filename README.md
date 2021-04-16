@@ -1,7 +1,7 @@
 ## EEG-VR
 # A Virtual Reality (VR)-based Brain-Computer Interface Development
 
-Unity project used in VR-based Brain-Computer Interface Development Project
+Unity project used in VR-based Brain-Computer Interface Development Project along with the final report and presentation.
 
 University of Melbourne Capstone Project **2019**
 
